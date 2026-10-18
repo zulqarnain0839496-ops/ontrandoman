@@ -1,0 +1,6 @@
+{
+  "name": "TumblerCo - Premium Insulated Drinkware Store",
+  "description": "Premium insulated Stanley tumblers, SMEG retro drinkware, gym shakers, thermal food jars, and beauty skincare drinkware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
